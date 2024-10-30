@@ -1,0 +1,169 @@
+id;key;name;title;popularity;winrate;banrate;difficulty;role;rangetype;tags;partype
+Aatrox;266;Aatrox;the Darkin Blade;10.7;49.5;17.3;4;Top;Melee;Fighter,Tank;Blood Well
+Ahri;103;Ahri;the Nine-Tailed Fox;8.5;51.0;4.4;5;Middle;Ranged;Mage,Assassin;Mana
+Akali;84;Akali;the Rogue Assassin;7.2;49.3;9.3;7;Top,Middle;Melee;Assassin;Energy
+Akshan;166;Akshan;The Rogue Sentinel;1.7;48.6;1.9;7;Middle;Ranged;Marksman,Assassin;Mana
+Alistar;12;Alistar;the Minotaur;5.0;49.0;2.0;7;Support;Melee;Tank,Support;Mana
+Amumu;32;Amumu;the Sad Mummy;9.4;53.4;13.5;3;Jungle,Support;Melee;Tank,Mage;Mana
+Anivia;34;Anivia;the Cryophoenix;2.5;52.7;1.8;10;Middle;Ranged;Mage,Support;Mana
+Annie;1;Annie;the Dark Child;1.8;51.0;0.5;6;Middle;Ranged;Mage;Mana
+Aphelios;523;Aphelios;the Weapon of the Faithful;4.0;46.8;0.8;10;Bottom;Ranged;Marksman;Mana
+Ashe;22;Ashe;the Frost Archer;10.8;49.6;4.5;4;Bottom,Support;Ranged;Marksman,Support;Mana
+AurelionSol;136;Aurelion Sol;The Star Forger;3.5;52.0;1.7;7;Middle;Ranged;Mage;Mana
+Aurora;893;Aurora;The Witch between Worlds;4.0;48.3;17.1;5;Middle,Top;Ranged;Mage,Assasin;Mana
+Azir;268;Azir;the Emperor of the Sands;2.6;45.8;0.5;9;Middle;Ranged;Mage,Marksman;Mana
+Bard;432;Bard;the Wandering Caretaker;3.1;49.6;0.5;9;Support;Ranged;Support,Mage;Mana
+Belveth;200;Bel'veth;The Empress of the Void;2.4;49.8;4.2;6;Jungle;Melee;Skirmisher;none
+Blitzcrank;53;Blitzcrank;the Great Steam Golem;6.5;48.7;21.9;4;Support;Melee;Tank,Fighter;Mana
+Brand;63;Brand;the Burning Vengeance;6.8;50.4;8.5;4;Jungle,Support,Middle;Ranged;Mage;Mana
+Braum;201;Braum;the Heart of the Freljord;4.5;50.6;2.7;3;Support;Melee;Support,Tank;Mana
+Briar;233;Briar;The Restrained Hunger;4.8;50.6;8.0;6;Jungle;Melee;Diver;Fury
+Caitlyn;51;Caitlyn;the Sheriff of Piltover;15.4;48.5;16.6;6;Bottom;Ranged;Marksman;Mana
+Camille;164;Camille;the Steel Shadow;6.3;51.3;4.9;4;Top,Support;Melee;Fighter,Tank;Mana
+Cassiopeia;69;Cassiopeia;the Serpent's Embrace;2.1;51.8;1.4;10;Middle;Ranged;Mage;Mana
+Chogath;31;Cho'Gath;the Terror of the Void;3.6;50.9;0.7;5;Top;Melee;Tank,Mage;Mana
+Corki;42;Corki;the Daring Bombardier;1.0;40.6;0.3;6;Middle;Ranged;Marksman;Mana
+Darius;122;Darius;the Hand of Noxus;8.5;50.0;20.6;2;Top;Melee;Fighter,Tank;Mana
+Diana;131;Diana;Scorn of the Moon;8.5;50.7;2.9;4;Jungle,Middle;Melee;Fighter,Mage;Mana
+Draven;119;Draven;the Glorious Executioner;3.5;51.2;2.3;8;Bottom;Ranged;Marksman;Mana
+DrMundo;36;Dr. Mundo;the Madman of Zaun;5.2;48.8;21.3;5;Top;Melee;Fighter,Tank;None
+Ekko;245;Ekko;the Boy Who Shattered Time;5.9;50.2;1.3;8;Jungle,Middle;Melee;Assassin,Fighter;Mana
+Elise;60;Elise;the Spider Queen;4.1;50.2;2.9;9;Jungle;Ranged;Mage,Fighter;Mana
+Evelynn;28;Evelynn;Agony's Embrace;2.5;48.9;3.8;10;Jungle;Melee;Assassin,Mage;Mana
+Ezreal;81;Ezreal;the Prodigal Explorer;17.2;48.0;7.6;7;Bottom;Ranged;Marksman,Mage;Mana
+Fiddlesticks;9;Fiddlesticks;the Ancient Fear;3.3;51.3;1.6;9;Jungle;Ranged;Mage,Support;Mana
+Fiora;114;Fiora;the Grand Duelist;4.5;49.7;7.2;3;Top;Melee;Fighter,Assassin;Mana
+Fizz;105;Fizz;the Tidal Trickster;4.0;49.3;6.4;6;Middle;Melee;Assassin,Fighter;Mana
+Galio;3;Galio;the Colossus;4.1;52.8;1.5;5;Middle,Support;Melee;Tank,Mage;Mana
+Gangplank;41;Gangplank;the Saltwater Scourge;3.3;48.7;1.2;9;Top;Melee;Fighter;Mana
+Garen;86;Garen;The Might of Demacia;12.2;51.3;15.4;5;Top;Melee;Fighter,Tank;None
+Gnar;150;Gnar;the Missing Link;3.6;49.8;0.8;8;Top;Ranged;Fighter,Tank;Rage
+Gragas;79;Gragas;the Rabble Rouser;6.9;49.3;2.1;5;Jungle,Top,Middle;Melee;Fighter,Mage;Mana
+Graves;104;Graves;the Outlaw;6.2;48.8;2.4;3;Jungle;Ranged;Marksman;Mana
+Gwen;887;Gwen;The Hallowed Seamstress;5.1;50.9;3.4;7;Top;Melee;Skirmisher;Mana
+Hecarim;120;Hecarim;the Shadow of War;4.1;49.0;3.9;6;Jungle;Melee;Fighter,Tank;Mana
+Heimerdinger;74;Heimerdinger;the Revered Inventor;2.0;50.6;1.3;8;Support,Top,Middle;Ranged;Mage,Support;Mana
+Hwei;910;Hwei;The Visionary;8.5;50.7;9.0;10;Middle,Support;Ranged;Artillery;Mana
+Illaoi;420;Illaoi;the Kraken Priestess;4.5;51.2;11.4;4;Top;Melee;Fighter,Tank;Mana
+Irelia;39;Irelia;the Blade Dancer;5.6;49.0;8.0;5;Top,Middle;Melee;Fighter,Assassin;Mana
+Ivern;427;Ivern;the Green Father;1.4;49.8;0.7;7;Jungle;Ranged;Support,Mage;Mana
+Janna;40;Janna;the Storm's Fury;3.8;51.9;1.4;7;Support;Ranged;Support,Mage;Mana
+JarvanIV;59;Jarvan IV;the Exemplar of Demacia;10.3;51.4;4.9;5;Jungle;Melee;Tank,Fighter;Mana
+Jax;24;Jax;Grandmaster at Arms;7.5;49.9;8.4;5;Top,Jungle;Melee;Fighter,Assassin;Mana
+Jayce;126;Jayce;the Defender of Tomorrow;4.7;48.1;1.9;7;Top,Middle;Melee;Fighter,Marksman;Mana
+Jhin;202;Jhin;the Virtuoso;27.6;51.7;17.6;6;Bottom;Ranged;Marksman,Mage;Mana
+Jinx;222;Jinx;the Loose Cannon;19.8;50.7;6.1;6;Bottom;Ranged;Marksman;Mana
+Kaisa;145;Kai'Sa;Daughter of the Void;25.9;50.8;8.1;6;Bottom;Ranged;Marksman;Mana
+Kalista;429;Kalista;the Spear of Vengeance;2.3;48.0;0.5;7;Bottom;Ranged;Marksman;Mana
+Karma;43;Karma;the Enlightened One;7.4;49.7;2.8;5;Middle,Support,Top;Ranged;Mage,Support;Mana
+Karthus;30;Karthus;the Deathsinger;2.9;49.6;3.2;7;Jungle;Ranged;Mage;Mana
+Kassadin;38;Kassadin;the Void Walker;1.9;51.3;1.8;8;Middle;Melee;Assassin,Mage;Mana
+Katarina;55;Katarina;the Sinister Blade;7.0;48.5;7.0;8;Middle;Melee;Assassin,Mage;None
+Kayle;10;Kayle;the Righteous;2.5;51.1;0.8;7;Top;Melee;Fighter,Support;Mana
+Kayn;141;Kayn;the Shadow Reaper;7.3;50.2;5.7;8;Jungle;Melee;Fighter,Assassin;Mana
+Kennen;85;Kennen;the Heart of the Tempest;2.5;50.6;1.6;4;Top;Ranged;Mage,Marksman;Energy
+Khazix;121;Kha'Zix;the Voidreaver;10.2;50.5;9.9;6;Jungle;Melee;Assassin;Mana
+Kindred;203;Kindred;The Eternal Hunters;2.6;48.3;1.8;4;Jungle;Ranged;Marksman;Mana
+Kled;240;Kled;the Cantankerous Cavalier;1.8;51.5;0.9;7;Top;Melee;Fighter,Tank;Courage
+KogMaw;96;Kog'Maw;the Mouth of the Abyss;3.7;52.8;1.6;6;Bottom;Ranged;Marksman,Mage;Mana
+Ksante;897;K'sante;The Pride of Nazumah;3.7;42.8;2.1;9;Top;Melee;Warden,Skirmisher;Mana
+Leblanc;7;LeBlanc;the Deceiver;7.9;50.4;24.3;9;Middle;Ranged;Assassin,Mage;Mana
+LeeSin;64;Lee Sin;the Blind Monk;16.5;47.8;13.7;6;Jungle;Melee;Fighter,Assassin;Energy
+Leona;89;Leona;the Radiant Dawn;7.9;49.6;15.1;4;Support;Melee;Tank,Support;Mana
+Lillia;876;Lillia;The Bashful Bloom;6.2;51.3;12.5;8;Jungle;Melee;Skirmisher;Mana
+Lissandra;127;Lissandra;the Ice Witch;4.6;50.9;3.0;6;Middle;Ranged;Mage;Mana
+Lucian;236;Lucian;the Purifier;9.5;49.3;2.1;6;Bottom;Ranged;Marksman;Mana
+Lulu;117;Lulu;the Fae Sorceress;11.6;51.4;9.5;5;Support;Ranged;Support,Mage;Mana
+Lux;99;Lux;the Lady of Luminosity;15.5;50.2;8.2;5;Middle,Support;Ranged;Mage,Support;Mana
+Malphite;54;Malphite;Shard of the Monolith;6.3;50.4;7.1;2;Top,Middle,Support;Melee;Tank,Fighter;Mana
+Malzahar;90;Malzahar;the Prophet of the Void;4.9;50.6;6.8;6;Middle;Ranged;Mage,Assassin;Mana
+Maokai;57;Maokai;the Twisted Treant;2.3;48.8;0.4;3;Support,Jungle;Melee;Tank,Mage;Mana
+MasterYi;11;Master Yi;the Wuju Bladesman;5.7;49.4;9.2;4;Jungle;Melee;Assassin,Fighter;Mana
+Milio;902;Milio;The Gentle Flame;6.3;51.5;3.6;4;Support;Ranged;Enchanter;Mana
+MissFortune;21;Miss Fortune;the Bounty Hunter;8.0;49.3;2.9;1;Bottom;Ranged;Marksman;Mana
+MonkeyKing;62;Wukong;the Monkey King;3.8;50.4;0.6;3;Jungle,Top;Melee;Fighter,Tank;Mana
+Mordekaiser;82;Mordekaiser;the Iron Revenant;8.0;51.9;13.2;4;Top;Melee;Fighter;Shield
+Morgana;25;Morgana;the Fallen;5.9;49.9;24.0;1;Support;Ranged;Mage,Support;Mana
+Naafiri;950;Naafiri;The Hound of a Hundred Bites;2.7;51.7;2.4;2;Middle;Melee;Assassin;Mana
+Nami;267;Nami;the Tidecaller;9.9;52.1;1.5;5;Support;Ranged;Support,Mage;Mana
+Nasus;75;Nasus;the Curator of the Sands;8.3;51.5;14.2;6;Top;Melee;Fighter,Tank;Mana
+Nautilus;111;Nautilus;the Titan of the Depths;10.1;48.6;17.0;6;Support;Melee;Tank,Fighter;Mana
+Neeko;518;Neeko;the Curious Chameleon;2.9;50.0;0.8;5;Middle,Support;Ranged;Mage,Support;Mana
+Nidalee;76;Nidalee;the Bestial Huntress;4.8;47.8;3.6;8;Jungle;Ranged;Assassin,Mage;Mana
+Nilah;895;Nilah;The Joy Unbound;1.9;51.6;2.9;8;Bottom;Melee;Skirmisher;Mana
+Nocturne;56;Nocturne;the Eternal Nightmare;6.9;51.8;10.4;4;Jungle;Melee;Assassin,Fighter;Mana
+Nunu;20;Nunu & Willump;the Boy and His Yeti;3.7;49.4;0.7;4;Jungle;Melee;Tank,Fighter;Mana
+Olaf;2;Olaf;the Berserker;1.7;49.5;1.1;3;Top;Melee;Fighter,Tank;Mana
+Orianna;61;Orianna;the Lady of Clockwork;4.8;49.2;0.8;7;Middle;Ranged;Mage,Support;Mana
+Ornn;516;Ornn;The Fire below the Mountain;4.5;51.7;0.8;5;Top;Melee;Tank,Fighter;Mana
+Pantheon;80;Pantheon;the Unbreakable Spear;5.8;49.2;2.0;4;Top,Support,Jungle,Middle;Melee;Fighter,Assassin;Mana
+Poppy;78;Poppy;Keeper of the Hammer;7.9;51.5;8.0;6;Top,Jungle;Melee;Tank,Fighter;Mana
+Pyke;555;Pyke;the Bloodharbor Ripper;7.6;48.9;20.0;7;Support;Melee;Support,Assassin;Mana
+Qiyana;246;Qiyana;Empress of the Elements;2.7;46.7;0.6;8;Middle;Melee;Assassin,Fighter;Mana
+Quinn;133;Quinn;Demacia's Wings;1.8;50.7;1.2;5;Top;Ranged;Marksman,Assassin;Mana
+Rakan;497;Rakan;The Charmer;4.0;49.3;0.5;5;Support;Melee;Support;Mana
+Rammus;33;Rammus;the Armordillo;2.5;50.6;6.0;5;Jungle;Melee;Tank,Fighter;Mana
+RekSai;421;Rek'Sai;the Void Burrower;1.4;51.1;0.7;3;Jungle;Melee;Fighter;Rage
+Rell;526;Rell;The Iron Maiden;4.6;51.0;2.4;3;Support;Melee;Vanguard;Mana
+RenataGlasc;888;Renata Glasc;The Chem-Baroness;1.4;48.8;0.3;9;Support;Ranged;Enchanter;Mana
+Renekton;58;Renekton;the Butcher of the Sands;6.3;49.8;4.1;3;Top;Melee;Fighter,Tank;Fury
+Rengar;107;Rengar;the Pridestalker;3.0;46.2;3.2;8;Jungle,Top;Melee;Assassin,Fighter;Ferocity
+Riven;92;Riven;the Exile;4.3;49.1;1.2;8;Top;Melee;Fighter,Assassin;None
+Rumble;68;Rumble;the Mechanized Menace;1.9;46.9;1.0;10;Top,Middle;Melee;Fighter,Mage;Heat
+Ryze;13;Ryze;the Rune Mage;3.7;50.7;0.5;7;Middle;Ranged;Mage,Fighter;Mana
+Samira;113;Samira;The Desert Rose;5.5;49.1;11.0;5;Bottom;Ranged;Marksman;Mana
+Sejuani;113;Sejuani;Fury of the North;3.9;48.5;0.6;4;Jungle;Melee;Tank,Fighter;Mana
+Senna;235;Senna;the Redeemer;9.1;51.9;7.4;7;Bottom,Support;Ranged;Marksman,Support;Mana
+Seraphine;147;Seraphine;The starry-eyed Songstress;6.2;50.4;2.4;1;Bottom,Support;Ranged;Burst,Enchanter;Mana
+Sett;875;Sett;the Boss;7.7;50.6;3.3;2;Top;Melee;Fighter,Tank;Grit
+Shaco;35;Shaco;the Demon Jester;7.3;49.3;27.0;9;Jungle,Support;Melee;Assassin;Mana
+Shen;98;Shen;the Eye of Twilight;4.3;51.7;0.5;4;Top,Support;Melee;Tank;Energy
+Shyvana;102;Shyvana;the Half-Dragon;3.2;51.8;1.9;4;Jungle;Melee;Fighter,Tank;Fury
+Singed;27;Singed;the Mad Chemist;1.5;50.8;0.3;5;Top;Melee;Tank,Fighter;Mana
+Sion;14;Sion;The Undead Juggernaut;4.3;49.6;0.8;5;Top;Melee;Tank,Fighter;Mana
+Sivir;15;Sivir;the Battle Mistress;3.2;50.4;0.5;4;Bottom;Ranged;Marksman;Mana
+Skarner;72;Skarner;the Crystal Vanguard;3.1;50.2;2.5;5;Jungle,Top;Melee;Fighter,Tank;Mana
+Smolder;901;Smolder;The Fiery Fledgling;11.8;45.6;12.4;6;Bottom,Top,Middle;Ranged;Marksman;Mana
+Sona;37;Sona;Maven of the Strings;2.4;51.8;0.1;4;Support;Ranged;Support,Mage;Mana
+Soraka;16;Soraka;the Starchild;4.5;50.4;1.9;3;Support;Ranged;Support,Mage;Mana
+Swain;50;Swain;the Noxian Grand General;4.0;50.4;1.5;8;Support,Middle;Ranged;Mage,Fighter;Mana
+Sylas;517;Sylas;the Unshackled;11.8;50.2;11.9;5;Middle,Top;Melee;Mage,Assassin;Mana
+Syndra;134;Syndra;the Dark Sovereign;8.9;51.3;5.3;8;Middle;Ranged;Mage,Support;Mana
+TahmKench;223;Tahm Kench;the River King;5.1;52.3;1.9;5;Top,Support;Melee;Support,Tank;Mana
+Taliyah;163;Taliyah;the Stoneweaver;2.8;50.8;1.1;5;Jungle,Middle;Ranged;Mage,Support;Mana
+Talon;91;Talon;the Blade's Shadow;3.4;48.5;0.7;7;Middle,Jungle;Melee;Assassin;Mana
+Taric;44;Taric;the Shield of Valoran;1.6;52.6;0.4;3;Support,Middle;Melee;Support,Fighter;Mana
+Teemo;17;Teemo;the Swift Scout;5.1;49.8;4.7;6;Top,Jungle,Support;Ranged;Marksman,Assassin;Mana
+Thresh;412;Thresh;the Chain Warden;14.8;49.7;5.7;7;Support;Ranged;Support,Fighter;Mana
+Tristana;18;Tristana;the Yordle Gunner;4.2;44.2;1.3;4;Bottom,Middle;Ranged;Marksman,Assassin;Mana
+Trundle;48;Trundle;the Troll King;2.8;50.2;0.9;5;Top,Jungle;Melee;Fighter,Tank;Mana
+Tryndamere;23;Tryndamere;the Barbarian King;3.9;49.4;3.0;5;Top;Melee;Fighter,Assassin;Fury
+TwistedFate;4;Twisted Fate;the Card Master;3.4;50.2;0.5;9;Middle,Bottom,Top;Ranged;Mage;Mana
+Twitch;29;Twitch;the Plague Rat;4.7;49.6;3.1;6;Bottom,Support;Ranged;Marksman,Assassin;Mana
+Udyr;77;Udyr;the Spirit Walker;5.3;51.9;8.1;;Top,Jungle;Melee;;
+Urgot;6;Urgot;the Dreadnought;2.6;51.7;0.8;8;Top;Ranged;Fighter,Tank;Mana
+Varus;110;Varus;the Arrow of Retribution;5.9;48.3;1.2;2;Bottom;Ranged;Marksman,Mage;Mana
+Vayne;67;Vayne;the Night Hunter;6.7;49.7;4.6;8;Bottom,Top;Ranged;Marksman,Assassin;Mana
+Veigar;45;Veigar;the Tiny Master of Evil;6.5;50.9;1.8;7;Middle,Support;Ranged;Mage;Mana
+Velkoz;161;Vel'Koz;the Eye of the Void;4.1;50.7;0.6;8;Support,Middle;Ranged;Mage;Mana
+Vex;711;Vex;The Gloomist;4.4;52.2;5.1;2;Middle;Ranged;Burst;Mana
+Vi;254;Vi;the Piltover Enforcer;4.6;48.6;1.8;4;Jungle;Melee;Fighter,Assassin;Mana
+Viego;234;Viego;The Ruined King;12.6;50.4;6.8;7;Jungle;Melee;Skirmisher;none
+Viktor;112;Viktor;the Machine Herald;3.2;50.8;1.0;9;Middle;Ranged;Mage;Mana
+Vladimir;8;Vladimir;the Crimson Reaper;8.9;48.9;16.3;7;Middle,Top;Ranged;Mage;Crimson Rush
+Volibear;106;Volibear;the Thunder's Roar;8.3;51.5;6.2;3;Top,Jungle;Melee;Fighter,Tank;Mana
+Warwick;19;Warwick;the Uncaged Wrath of Zaun;6.1;52.1;2.6;3;Jungle,Top;Melee;Fighter,Tank;Mana
+Xayah;498;Xayah;the Rebel;3.5;48.2;0.5;5;Bottom;Ranged;Marksman;Mana
+Xerath;101;Xerath;the Magus Ascendant;8.8;51.3;8.3;8;Middle,Support;Ranged;Mage;Mana
+XinZhao;5;Xin Zhao;the Seneschal of Demacia;4.6;50.9;1.3;2;Jungle;Melee;Fighter,Assassin;Mana
+Yasuo;157;Yasuo;the Unforgiven;15.1;47.8;21.7;10;Top,Middle,Bottom;Melee;Fighter,Assassin;Flow
+Yone;777;Yone;The Unforgotten;18.4;48.0;15.1;8;Top,Middle;Melee;Assassin,Skirmisher;Flow
+Yorick;83;Yorick;Shepherd of Souls;4.8;51.7;6.3;6;Top;Melee;Fighter,Tank;Mana
+Yuumi;350;Yuumi;the Magical Cat;5.6;48.7;6.5;2;Support;Ranged;Support,Mage;Mana
+Zac;154;Zac;the Secret Weapon;5.4;50.8;2.9;8;Jungle,Top,Support;Melee;Tank,Fighter;None
+Zed;238;Zed;the Master of Shadows;10.0;48.8;26.7;7;Middle,Jungle;Melee;Assassin;Energy
+Zeri;221;Zeri;The Spark of Zaun;4.7;47.9;1.1;4;Bottom;Ranged;Marksman;Mana
+Ziggs;115;Ziggs;the Hexplosives Expert;5.4;49.6;4.5;4;Bottom,Middle;Ranged;Mage;Mana
+Zilean;26;Zilean;the Chronokeeper;2.5;50.7;0.7;6;Support;Ranged;Support,Mage;Mana
+Zoe;142;Zoe;the Aspect of Twilight;3.1;50.3;1.1;5;Middle;Ranged;Mage,Support;Mana
+Zyra;143;Zyra;Rise of the Thorns;4.4;50.9;4.6;7;Support;Ranged;Mage,Support;Mana
